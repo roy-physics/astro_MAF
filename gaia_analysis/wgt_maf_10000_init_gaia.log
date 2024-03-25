@@ -1,0 +1,38 @@
+INFO: epoch 0001 | time_elapsed: 2.002s
+INFO:            | loss_train: 19.7139 | loss_valid: 19.7133 | loss_best: 19.7133
+INFO: epoch 0002 | time_elapsed: 3.995s
+INFO:            | loss_train: 17.3385 | loss_valid: 17.3372 | loss_best: 17.3372
+INFO: epoch 0003 | time_elapsed: 6.010s
+INFO:            | loss_train: 14.7850 | loss_valid: 14.7826 | loss_best: 14.7826
+INFO: epoch 0004 | time_elapsed: 8.096s
+INFO:            | loss_train: 11.7863 | loss_valid: 11.9420 | loss_best: 11.9420
+INFO: epoch 0005 | time_elapsed: 10.295s
+INFO:            | loss_train: 9.6013 | loss_valid: 25.7352 | loss_best: 11.9420
+INFO: epoch 0006 | time_elapsed: 12.493s
+INFO:            | loss_train: 8.7321 | loss_valid: 188.9376 | loss_best: 11.9420
+INFO: epoch 0007 | time_elapsed: 14.705s
+INFO:            | loss_train: 8.3699 | loss_valid: 495.2553 | loss_best: 11.9420
+INFO: epoch 0008 | time_elapsed: 16.931s
+INFO:            | loss_train: 8.0608 | loss_valid: 1944.2264 | loss_best: 11.9420
+INFO: epoch 0009 | time_elapsed: 19.170s
+INFO:            | loss_train: 7.8650 | loss_valid: 427.4070 | loss_best: 11.9420
+INFO: epoch 0010 | time_elapsed: 21.424s
+INFO:            | loss_train: 7.7427 | loss_valid: 37.1114 | loss_best: 11.9420
+INFO: epoch 0011 | time_elapsed: 23.680s
+INFO:            | loss_train: 7.6839 | loss_valid: 11.4672 | loss_best: 11.4672
+INFO: epoch 0012 | time_elapsed: 25.943s
+INFO:            | loss_train: 7.6511 | loss_valid: 8.8724 | loss_best: 8.8724
+INFO: epoch 0013 | time_elapsed: 28.205s
+INFO:            | loss_train: 7.6314 | loss_valid: 8.1676 | loss_best: 8.1676
+INFO: epoch 0014 | time_elapsed: 30.471s
+INFO:            | loss_train: 7.6154 | loss_valid: 7.9686 | loss_best: 7.9686
+INFO: epoch 0015 | time_elapsed: 32.727s
+INFO:            | loss_train: 7.6044 | loss_valid: 7.7823 | loss_best: 7.7823
+INFO: epoch 0016 | time_elapsed: 34.971s
+INFO:            | loss_train: 7.5954 | loss_valid: 7.7166 | loss_best: 7.7166
+INFO: epoch 0017 | time_elapsed: 37.216s
+INFO:            | loss_train: 7.5830 | loss_valid: 7.6632 | loss_best: 7.6632
+INFO: epoch 0018 | time_elapsed: 39.491s
+INFO:            | loss_train: 7.5775 | loss_valid: 7.6323 | loss_best: 7.6323
+INFO: epoch 0019 | time_elapsed: 41.771s
+INFO:            | loss_train: 7.5672 | loss_valid: 7.6110 | loss_best: 7.6110

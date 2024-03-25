@@ -1,0 +1,18 @@
+INFO: epoch 0001 | time_elapsed: 2.036s
+INFO:            | loss_train: 19.2679 | loss_valid: 19.2684 | loss_best: 19.2684
+INFO: epoch 0002 | time_elapsed: 4.062s
+INFO:            | loss_train: 16.9917 | loss_valid: 16.9918 | loss_best: 16.9918
+INFO: epoch 0003 | time_elapsed: 6.122s
+INFO:            | loss_train: 14.6261 | loss_valid: 14.6331 | loss_best: 14.6331
+INFO: epoch 0004 | time_elapsed: 8.250s
+INFO:            | loss_train: 12.2326 | loss_valid: 812.1636 | loss_best: 14.6331
+INFO: epoch 0005 | time_elapsed: 10.421s
+INFO:            | loss_train: 10.2216 | loss_valid: 13.1245 | loss_best: 13.1245
+INFO: epoch 0006 | time_elapsed: 12.656s
+INFO:            | loss_train: 8.9610 | loss_valid: 9.0434 | loss_best: 9.0434
+INFO: epoch 0007 | time_elapsed: 14.908s
+INFO:            | loss_train: 8.3971 | loss_valid: 8.4059 | loss_best: 8.4059
+INFO: epoch 0008 | time_elapsed: 17.172s
+INFO:            | loss_train: 8.0676 | loss_valid: 8.0744 | loss_best: 8.0744
+INFO: epoch 0009 | time_elapsed: 19.465s
+INFO:            | loss_train: 7.8456 | loss_valid: 7.8606 | loss_best: 7.8606
